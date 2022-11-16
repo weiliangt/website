@@ -11,4 +11,4 @@ output:
     css: "style.css"
 ---
 
-Please contact me at [my_email@cornell.edu]()
+Please contact me at [wt289@cornell.edu]()

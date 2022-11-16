@@ -12,11 +12,12 @@ output:
     css: "style.css"
 ---
 
-<center> <h1>My name</h1> </center>
+<center> <h1>Weiliang Tan</h1> </center>
 
 <center>
-Ph.D. Student in [Statistics at Cornell University](https://stat.cornell.edu/)  
-**Pronouns:** list pronouns
+Ph.D. Student in [Applied Economics at Cornell University](https://dyson.cornell.edu/)
+
+Visiting Student in [Economics at University of California, Berkeley](https://www.econ.berkeley.edu/)
 </center>
 
 </div>
@@ -33,7 +34,7 @@ border:5px solid; border-color:black">
 </div>
 
 <center>
-My name is ________, and I am a Ph.D. student in the Department of Statistics at Cornell University. My current research interests are ________. I am interested in applications in ________. In my free time, I like to ________.
+My name is Weiliang Tan. I am currently visiting the Department of Economics at University of California, Berkeley. For Spring and Fall 2023, I will be visiting the Department of Economics at Yale University. My research focuses on the spatial and network aspects of innovation as well as climate change.
    
 Please find my CV [insert link here].   
 </center>
