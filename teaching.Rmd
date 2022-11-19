@@ -1,0 +1,31 @@
+---
+title: ""
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'teaching.html'))})
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+<left>
+
+My teaching and diversity statement is available upon request. 
+
+# International Trade
+
+I conceptualized and co-organized the Cornell Urban-Spatial-Trade-Geography Reading Group 2021-2022 that includes Professors Shanjun Li, Panle Barwick and Ivan Rudik to fill in the gap for the absence of trade field courses at Cornell. The syllabus for our reading group can be found here.
+
+# Environmental Economics and Applied Microeconomics
+
+I have been a TA for first-year PhD Applied Microeconomics (Prof. Ben Layden and Prof. Ariel Ortiz-Bobea), masters Environmental Economics (Prof. Ivan Rudik) and undergraduate Resource Economics at Cornell. 
+
+
+
+
+
+
+

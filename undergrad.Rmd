@@ -11,31 +11,26 @@ output:
     css: "style.css"
 ---
 
-<center> <h1>Undergraduate Education</h1> </center>
+<center> <h1>Undergraduate Education: Yale-NUS College</h1> </center>
 
 <div>
 <div style="margin-bottom:20px;">
 </div>
 
 <center>
-<img src="cmu.png">
+<img src="YNC_1.jpg">
 </center>
 
 <div>
 <div style="margin-bottom:20px;">
 </div>
 
-    
-## Bachelors of Arts/Science: Major 
+I graduated summa cum laude from Yale-NUS College in Singapore in 2018. I am extremely grateful to have had access to a leading liberal arts education with faculty from Yale and other leading US institutions at a highly affordable cost. 
+<!-- Our common curriculum with courses in philosophy, history, literature and modern social thought helped develop writing. -->
+At Yale-NUS I led the student environmental group. 
 
-University, College, City, State, Country
+In Spring 2017, I was a visiting student at Yale University. 
 
-
-- **Graduated:** Month 20XX   
-- List your achievements 
-- **GPA:** 10.00  
-- **Undergraduate Thesis**: "Title"    
-- **Thesis Advisor**: [Dr. Vicki Helgeson](https://www.cmu.edu/dietrich/psychology/people/core-training-faculty/helgeson-vicki.html)
 
 </div>
 <div style="margin-bottom:20px;">
