@@ -1,0 +1,30 @@
+---
+title: ""
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'research.html'))})
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+<left>
+
+# Working Papers
+
+Heterogeneity and Market Adaptation to Climate Change in Dynamic Spatial Equilibrium
+(with Ivan Rudik, Gary Lyn, Ariel Ortiz-Bobea)
+
+# Work in Progress
+
+Innovation Networks and Spatial Inequality (Job Market Paper)
+
+The Dynamic Propagation of Productivity Shocks (with Zebang Xu)
+
+Climate Adaptation Portfolios (with Derek Lemoine, Antonia Marcheva, Ivan Rudik)
+
+
+
