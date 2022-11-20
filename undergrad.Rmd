@@ -25,9 +25,9 @@ output:
 <div style="margin-bottom:20px;">
 </div>
 
-I graduated summa cum laude from Yale-NUS College in Singapore in 2018. I am extremely grateful to have had access to a leading liberal arts education with faculty from Yale and other leading US institutions at a highly affordable cost. 
+I graduated summa cum laude from Yale-NUS College in Singapore in 2018. I am extremely grateful to have had access to a leading liberal arts education with faculty from Yale and other leading institutions at a highly affordable cost. 
 <!-- Our common curriculum with courses in philosophy, history, literature and modern social thought helped develop writing. -->
-At Yale-NUS I led the student environmental group. 
+At Yale-NUS I led the main student environmental group.
 
 In Spring 2017, I was a visiting student at Yale University. 
 
