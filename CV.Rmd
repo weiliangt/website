@@ -1,0 +1,18 @@
+---
+title: ""
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'CV.html'))})
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+<left>
+
+My CV can be found here
+
+

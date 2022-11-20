@@ -11,12 +11,12 @@ navbar:
       href: teaching.html
     - text: "CV"
       href: CV.html
-    # - text: "Education"
-    #   menu: 
-    #     - text: "Undergraduate"
-    #       href: undergrad.html
-    #     - text: "Graduate"
-    #       href: phd.html
+    - text: "Education"
+      menu: 
+        - text: "Undergraduate"
+          href: undergrad.html
+        - text: "Graduate"
+          href: phd.html
   right:
     - icon: fa-envelope fa-lg
       href: mailto:wt289@cornell.edu
