@@ -25,7 +25,7 @@ output:
 <div style="margin-bottom:20px;">
 </div>
 
-I am fortunate to work with Professor Ivan Rudik in the Dyson School at Cornell. Learning basic coding skills in Julia and data cleaning in R datatable has enabled me to work with high-resolution micro datasets comprising over half a billion observations easily and simulate highly detailed quantitative spatial models quickly.
+I am fortunate to work with Prof. Ivan Rudik in the Dyson School at Cornell. Learning basic coding skills in Julia and data cleaning in R datatable has enabled me to work with high-resolution micro datasets comprising over half a billion observations easily and simulate highly detailed quantitative spatial models quickly.
 
 I am extremely grateful for opportunities to visit UC Berkeley and Yale. In particular, the hospitality of the trade faculty and students at UC Berkeley have helped me to acquire proper theoretical foundations in trade and significantly improve my highly disorganized and incongruent paper ideas and work-in-progress.
 
