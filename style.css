@@ -14,3 +14,24 @@ body {
 .fa-2x {
   vertical-align: middle;
 }
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1000px;
+  background-color: ;
+}
+
+.flex-container > left {
+  width: 300px;
+  margin: 10px;
+  text-align: center;
+  line-height: 20px;
+}
+
+.flex-container > right {
+  width: 600px;
+  margin: 10px;
+  text-align: left;
+  line-height: 20px;
+}

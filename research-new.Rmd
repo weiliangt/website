@@ -1,0 +1,60 @@
+---
+title: ""
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'research-new.html'))})
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+<left>
+
+My research statement is available upon request. 
+
+# Working Papers
+
+<left class="flex-container">
+<left> <img src="YNC_2.jpg" style="width:100%"> </left>
+<right> <font size="4">**Market Adaptation to Climate Change in Dynamic Spatial Equilibrium: Micro Estimation and Macro Simulation**</font>  
+(with Ivan Rudik, Gary Lyn, Ariel Ortiz-Bobea)  
+<br /> **Research Question**: What are the welfare effects of general equilibrium adaptation via trade, migration, and capital accumulation in response to climate change?  
+<br /> **Methodological Contributions**: (1) Model-consistent estimating equations to identify climate impacts on productivity and amenities from temperature shocks; (2) Quantitative decomposition of general equilibrium adaptation channels (trade, migration, industry switching, capital accumulation) to shocks in fundamentals in a dynamic spatial model
+</right>
+
+<br />
+
+# Work in Progress
+
+<left class="flex-container">
+<left> Paper 2 </left>
+<right> <font size="4">**Innovation Networks and Spatial Inequality**</font>  
+(Job Market Paper)  
+<br /> **Research Question**: How do cross-city innovation networks impact spatial inequality and aggregate growth?  
+<br /> **Methodological Contribution**: Add endogenous, dynamic, and microfounded innovation to quantitative dynamic spatial models
+</right>
+
+<br />
+
+<left class="flex-container">
+<left> Paper 3 </left>
+<right> <font size="4">**The Dynamic Propagation of Productivity Shocks**</font>  
+(with Zebang Xu)  
+<br /> **Research Question**: What are the origins of technological waves?  
+<br /> **Methodological Contribution**: Add endogenous innovation to production network models to characterize the dynamic propagation of productivity shocks via innovation and production networks
+</right>
+
+<br />
+
+<left class="flex-container">
+<left> Paper 4 </left>
+<right> <font size="4">**Climate Adaptation Portfolios**</font>  
+(with Derek Lemoine, Antonia Marcheva, Ivan Rudik)  
+<br /> **Research Question**: Which regions and industries should a global planner target to reduce the aggregate and distributional impacts of climate change?  
+<br /> **Methodological Contribution**: Characterize planner problem to reduce impacts of productivity shocks in a global production network model
+</right>
+
+
