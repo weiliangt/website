@@ -17,12 +17,19 @@ My research statement is available upon request.
 
 # Working Papers
 
-Market Adaptation to Climate Change in Dynamic Spatial Equilibrium: Micro Estimation and Macro Simulation  
-(with Ivan Rudik, Gary Lyn, Ariel Ortiz-Bobea)
+<left class="flex-container">
+<left> <img src="productivity_pe_vs_ge.png" style="width:100%"> </left>
+<right> <font size="4">**Market Adaptation to Climate Change in Dynamic Spatial Equilibrium**</font>
+(joint with Ivan Rudik, Gary Lyn, Ariel Ortiz-Bobea)  
+<br /> **Research Question**: What are the welfare effects of general equilibrium adaptation via trade, migration, and capital accumulation in response to climate change?  
+<br /> **Methodological Contributions**: (1) Model-consistent estimating equations to identify climate impacts on productivity and amenities from temperature shocks; (2) Quantitative decomposition of general equilibrium adaptation channels (trade, migration, industry switching, capital accumulation) to shocks in fundamentals in a dynamic spatial model
+</right>
+
+<br />
 
 # Work in Progress
 
-Innovation Networks and Spatial Inequality (Job Market Paper)
+Cross-City Networks and Spatial Inequality with the Rise of Innovation-Led Growth (Job Market Paper)
 
 The Dynamic Propagation of Productivity Shocks (with Zebang Xu)
 
