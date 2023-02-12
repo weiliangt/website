@@ -13,7 +13,7 @@ output:
 
 <left>
 
-My research statement is available upon request. 
+<!-- My research statement is available upon request.  -->
 
 # Working Papers
 

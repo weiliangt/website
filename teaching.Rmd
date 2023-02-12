@@ -13,7 +13,7 @@ output:
 
 <left>
 
-My teaching and diversity statement is available upon request. 
+<!-- My teaching and diversity statement is available upon request.  -->
 
 # International Trade
 
