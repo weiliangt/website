@@ -29,7 +29,7 @@ output:
 
 # Work in Progress
 
-The Geography and Spatial Networks of Innovation Production and Technology Diffusion (Job Market Paper)
+The Geography and Spatial Networks of Innovation in the United States (Job Market Paper)
 
 The Dynamic Propagation of Productivity Shocks (with Zebang Xu)
 

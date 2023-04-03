@@ -31,10 +31,10 @@ My research statement is available upon request.
 
 <left class="flex-container">
 <left> Paper 2 </left>
-<right> <font size="4">**Innovation Networks and Spatial Inequality**</font>  
+<right> <font size="4">**The Geography and Spatial Networks of Innovation in the United States**</font>  
 (Job Market Paper)  
-<br /> **Research Question**: How do cross-city innovation networks impact spatial inequality and aggregate growth?  
-<br /> **Methodological Contribution**: Add endogenous, dynamic, and microfounded innovation to quantitative dynamic spatial models
+<br /> **Research Questions**: What is the geography of coinventor networks in the United States? What is the role of firms in driving this geography? What are the aggregate consequences of this geography on growth and spatial inequality?  
+<br /> **Methodological Contribution**: Add to quantitative dynamic spatial models: (1) endogenous, dynamic, and microfounded innovation; (2) dynamic multi-plant networks
 </right>
 
 <br />
