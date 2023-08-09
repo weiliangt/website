@@ -21,7 +21,7 @@ output:
 <left> <img src="productivity_pe_vs_ge.png" style="width:100%"> </left>
 <right> <font size="4">**Market Adaptation to Climate Change in Dynamic Spatial Equilibrium**</font>
 (joint with Ivan Rudik, Gary Lyn, Ariel Ortiz-Bobea)   
-<br /> **Revise and Resubmit, Journal of Political Economy: Macroeconomics**  
+<br /> <em>**Revise and Resubmit, Journal of Political Economy: Macroeconomics**</em>  
 <br /> **Research Question**: What are the welfare effects of general equilibrium adaptation via trade, migration, and capital accumulation in response to climate change?  
 <br /> **Methodological Contributions**: (1) Model-consistent estimating equations to identify climate impacts on productivity and amenities from temperature shocks; (2) Quantitative decomposition of general equilibrium adaptation channels (trade, migration, industry switching, capital accumulation) to shocks in fundamentals in a dynamic spatial model
 </right>
