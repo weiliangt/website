@@ -30,11 +30,13 @@ output:
 
 # Work in Progress
 
-The Geography and Spatial Networks of Innovation in the United States (Job Market Paper)
+The Geography and Spatial Networks of Inventors (Job Market Paper)
 
 The Dynamic Propagation of Productivity Shocks (with Zebang Xu)
 
-Climate Adaptation Portfolios (with Derek Lemoine, Antonia Marcheva, Ivan Rudik)
+The Determinants of Spatial Autocorrelation (with Shoki Kusaka, Sabrina Peng, and Christina Qiu)
+
+The Geography of Technology Vintages (with Bernardo Ribeiro)
 
 
 

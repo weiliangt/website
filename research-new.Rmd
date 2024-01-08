@@ -33,8 +33,8 @@ My research statement is available upon request.
 <left> Paper 2 </left>
 <right> <font size="4">**The Geography and Spatial Networks of Innovation in the United States**</font>  
 (Job Market Paper)  
-<br /> **Research Questions**: What is the geography of coinventor networks in the United States? What is the role of firms in driving this geography? What are the aggregate consequences of this geography on growth and spatial inequality?  
-<br /> **Methodological Contribution**: Add to quantitative dynamic spatial models: (1) endogenous, dynamic, and microfounded innovation; (2) dynamic multi-plant networks
+<br /> **Research Question**: What drives the rising intensity of cross-region coinventor collaborations since 1976?  
+<br /> **Methodological Contributions**: Introduce network-based innovation policy
 </right>
 
 <br />
