@@ -31,7 +31,7 @@ My research statement is available upon request.
 
 <left class="flex-container">
 <left> Paper 2 </left>
-<right> <font size="4">**The Geography and Spatial Networks of Innovation in the United States**</font>  
+<right> <font size="4">**The Geography and Spatial Networks of Innovation**</font>  
 (Job Market Paper)  
 <br /> **Research Question**: What drives the rising intensity of cross-region coinventor collaborations since 1976?  
 <br /> **Methodological Contributions**: Introduce network-based innovation policy

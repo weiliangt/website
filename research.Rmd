@@ -28,15 +28,15 @@ output:
 
 <br />
 
-# Work in Progress
+<!-- # Work in Progress
 
-The Geography and Spatial Networks of Inventors (Job Market Paper)
+The Geography and Spatial Networks of Innovation (Job Market Paper)
 
 The Dynamic Propagation of Productivity Shocks (with Zebang Xu)
 
 The Determinants of Spatial Autocorrelation (with Shoki Kusaka, Sabrina Peng, and Christina Qiu)
 
-The Geography of Technology Vintages (with Bernardo Ribeiro)
+The Geography of Technology Vintages (with Bernardo Ribeiro)  -->
 
 
 
