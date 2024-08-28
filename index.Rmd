@@ -34,9 +34,17 @@ border:5px solid; border-color:black">
 </div>
 
 <left>
-My name is Weiliang Tan. I am a PhD Candidate in Applied Economics at Cornell University and currently a visiting student at the Department of Economics at Yale University.
-<!-- I will be on the 2023-2024 job market. -->
-My research focuses on the spatial and network aspects of innovation and climate change.
+<span style="font-size:18px"> My name is Weiliang Tan. I am a PhD Candidate in Applied Economics at Cornell University and a visiting student at the Department of Economics at Yale University from January 2023 - May 2025 hosted by **Prof. Samuel Kortum**. 
+I am on the 2024-2025 economics job market.
+
+<br>
+<span style="font-size:18px">- Advisors: Prof. Ivan Rudik (Cornell), Prof. Samuel Kortum (Yale), Prof. Peter Schott (Yale), Prof. Nancy Chau (Cornell)
+
+<span style="font-size:18px">- Primary Fields: **International and Spatial Economics**; **Urban Economics**</span>
+
+<span style="font-size:18px">- Secondary Fields: Macroeconomics; Environmental Economics
+
+<span style="font-size:18px">- Research Focus: The Spatial and Network Aspects of Innovation and Climate Change
    
 </center>
 

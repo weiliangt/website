@@ -9,6 +9,7 @@ body {
   margin: auto;
  padding: 1em;
  line-height: 20px ; 
+ list-style-type: disc;
 } 
 
 .fa-2x {
