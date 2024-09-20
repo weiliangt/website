@@ -25,8 +25,8 @@ Visiting Student in [Economics at Yale University](https://economics.yale.edu/)
 </div>
 
 <center>
-<img src="photo_of_me.jpg" style="width:40%;
-border:5px solid; border-color:black">
+<img src="photo_of_me.jpg" style="width:40%"> 
+<!--border:5px solid; border-color:black"> -->
 </center>
 
 </div>
