@@ -15,24 +15,26 @@ output:
 
 <!-- My research statement is available upon request.  -->
 
-# Working Papers
+<h1 style="font-size: 40px;">Working Papers</h1>
+<br>
 
 <left class="flex-container">
-<left> <img src="productivity_pe_vs_ge.png" style="width:100%"> </left>
-<right> <font size="4">**Market Adaptation to Climate Change in Dynamic Spatial Equilibrium**</font>
+<left> <img src="ssp245_temp_hist.png" style="width:100%"> </left>
+<right> <span style="font-size:18px">**Market Adaptation to Climate Change in Dynamic Spatial Equilibrium**</font>
 (joint with Ivan Rudik, Gary Lyn, Ariel Ortiz-Bobea)   
-<br /> <em>**Revise and Resubmit, Journal of Political Economy: Macroeconomics**</em>  
-<br /> **Research Question**: What are the welfare effects of general equilibrium adaptation via trade, migration, and capital accumulation in response to climate change?  
+<br /> <em>**R&R, Journal of Political Economy: Macroeconomics**</em>  
+<br /> **Research Question**: What are the welfare effects of general equilibrium adaptation via trade, migration, and capital accumulation in response to <br> climate change?  
 <br /> **Methodological Contributions**: (1) Model-consistent estimating equations to identify climate impacts on productivity and amenities from temperature shocks; (2) Quantitative decomposition of general equilibrium adaptation channels (trade, migration, industry switching, capital accumulation) to shocks in fundamentals in a dynamic spatial model
 </right>
 
-<br />
+<!-- <br />
+<font-size:40px>
+<h1 style="font-size: 40px;">Selected Work in Progress</h1>
 
-<!-- # Work in Progress
+The Geography and Spatial Networks of Innovation -->
 
-The Geography and Spatial Networks of Innovation (Job Market Paper)
 
-The Dynamic Propagation of Productivity Shocks (with Zebang Xu)
+<!-- The Dynamic Propagation of Productivity Shocks (with Zebang Xu)
 
 The Determinants of Spatial Autocorrelation (with Shoki Kusaka, Sabrina Peng, and Christina Qiu)
 

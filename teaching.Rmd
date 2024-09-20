@@ -13,7 +13,7 @@ output:
 
 <left>
 
-<!-- My teaching and diversity statement is available upon request.  -->
+My teaching and diversity statements are available upon request.
 
 # International and Spatial Economics
 
