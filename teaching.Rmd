@@ -13,17 +13,30 @@ output:
 
 <left>
 
-My teaching and diversity statements are available upon request.
+My teaching and diversity statements are available on request. 
+<br><br>
+I benefited from the multidisciplinary undergraduate education at Yale-NUS College, Singapore's first liberal arts college, which nurtured my interests in teaching. 
+<br><br>
+My teaching interests at the undergraduate and graduate levels include:
+<ul> <li> International and Spatial Economics; Urban Economics
+     <li> Macroeconomics (Growth and Innovation)
+     <li> Empirical Innovation
+     <li> Environmental and Resource Economics
+     <li> Applied Microeconomics
+</ul>
+
+<br>
 
 # International and Spatial Economics
 
 I co-organized the Cornell Urban-Spatial-Trade-Geography Reading Group over several semesters, supervised by Prof. Shanjun Li, Prof. Panle Barwick, and Prof. Ivan Rudik. This filled in for the absence of field courses in international and spatial economics at Cornell. The syllabus for our reading group can be found here.
 
 I was the TA for undergraduate International Economics (Prof. Samuel Kortum) at Yale.
+<br><br>
 
 # Environmental Economics and Applied Microeconomics
 
-I have been a TA for first-year PhD Applied Microeconomics (Prof. Ben Leyden and Prof. Ariel Ortiz-Bobea), masters Environmental Economics (Prof. Ivan Rudik) and undergraduate Resource Economics at Cornell. 
+I was the TA for first-year PhD Applied Microeconomics (Prof. Ben Leyden and Prof. Ariel Ortiz-Bobea), masters Environmental Economics (Prof. Ivan Rudik) and undergraduate Resource Economics at Cornell. 
 
 
 

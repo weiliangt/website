@@ -7,10 +7,10 @@ img {
 body {
   max-width: 1150px;
   margin: auto;
- padding: 1em;
- line-height: 20px ; 
- list-style-type: disc;
-} 
+  padding: 2em;
+  line-height: 1.5; 
+  list-style-type: disc;
+  font-size: 18px} 
 
 .fa-2x {
   vertical-align: middle;
@@ -20,6 +20,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   width: 1150px;
+  font-size: 18px
   background-color: ;
 }
 
