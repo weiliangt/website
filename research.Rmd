@@ -22,8 +22,8 @@ My research statement is available on request.
 <left> <img src="geo_innovation_pic.png" style="width:100%"> </left>
 <right> <span style="font-size:22px">**The Geography of Innovation in the United States**</font>
 <br> (Job Market Paper)   
-<br> <span style="font-size:18px"> **Research Question**: What drives the rising spatial concentration of innovation in high-skill cities from the early 1990s and what are the aggregate consequences? 
-<br> <br> **Methodological Contribution**: Introduce endogenous, directed, and microfounded innovation in a dynamic spatial model
+<br><br> <span style="font-size:18px"> **Research Question**: What drives the rising spatial concentration of innovation from the early 1990s and what are the aggregate consequences? 
+<br><br><br> **Methodological Contribution**: Introduce endogenous, directed, and microfounded innovation in a dynamic spatial model
 </right>
 
 <br />
@@ -52,7 +52,8 @@ My research statement is available on request.
 <left> <img src="geo_vintage_pic.png" style="width:90%"> </left>
 <right> <span style="font-size:22px">**The Geography of Technology Vintages**</font> 
 <br> (joint with Bernardo Ribeiro)  
-<br><br> <span style="font-size:18px">**Research Question**: Why are newer technology vintages concentrated in cities?
+<br><br> <span style="font-size:18px">**Research Question**: Why are newer technology vintages concentrated<br> in big cities?
+<br><br><br> **Methodological Contribution**: Introduce technology vintages in a <br> dynamic spatial model with endogenous innovation
 </right>
 
 <!-- The Dynamic Propagation of Productivity Shocks (with Zebang Xu)
