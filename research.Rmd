@@ -20,7 +20,7 @@ My research statement is available on request.
 
 <left class="flex-container">
 <left> <img src="geo_innovation_pic.png" style="width:100%"> </left>
-<right> <span style="font-size:22px"><a href="Weiliang_JMP.pdf">**The Geography of Innovation in the United States**</a></font>
+<right> <span style="font-size:22px"><a href="Weiliang_JMP.pdf" target="_blank">**The Geography of Innovation in the United States**</a></font>
 <br> (Job Market Paper)   
 <br><br> <span style="font-size:18px"> **Research Question**: What drives the rising spatial concentration of innovation from the early 1990s and what are the aggregate consequences? 
 <br><br><br> **Methodological Contribution**: Introduce endogenous, directed, and microfounded innovation in a dynamic spatial model
@@ -29,7 +29,7 @@ My research statement is available on request.
 <br />
 <left class="flex-container">
 <left> <img src="ssp245_temp_hist.png" style="width:100%"> </left>
-<right> <span style="font-size:22px">**The Economic Effects of Climate Change in<br>Dynamic Spatial Equilibrium**</font>
+<right> <span style="font-size:22px"><a href="https://osf.io/preprints/socarxiv/usghb" target="_blank">**The Economic Effects of Climate Change in<br>Dynamic Spatial Equilibrium**</a></font>
 <br /> (joint with Ivan Rudik, Gary Lyn, Ariel Ortiz-Bobea)   
 <br /> <span style="font-size:18px"> <em>**R&R, Journal of Political Economy: Macroeconomics**</em>  
 <br /> **Research Question**: What are the welfare effects of general equilibrium adaptation via trade, migration, and capital accumulation in response to <br> climate change?  
