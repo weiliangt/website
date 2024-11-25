@@ -20,7 +20,7 @@ My research statement is available on request.
 
 <left class="flex-container">
 <left> <img src="geo_innovation_pic.png" style="width:100%"> </left>
-<right> <span style="font-size:22px">**The Geography of Innovation in the United States**</font>
+<right> <span style="font-size:22px"><a href="Weiliang_JMP.pdf">**The Geography of Innovation in the United States**</a></font>
 <br> (Job Market Paper)   
 <br><br> <span style="font-size:18px"> **Research Question**: What drives the rising spatial concentration of innovation from the early 1990s and what are the aggregate consequences? 
 <br><br><br> **Methodological Contribution**: Introduce endogenous, directed, and microfounded innovation in a dynamic spatial model
