@@ -13,6 +13,7 @@ output:
 
 <left>
 
-My CV can be found here
+My CV can be downloaded <a href="Weiliang_Tan_CV.pdf" target="_blank">**here**</a></font> and is embedded below:
+<br><br>
 
-
+<embed src="Weiliang_Tan_CV.pdf" type="application/pdf" width="100%" height="800px">
