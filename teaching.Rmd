@@ -13,9 +13,9 @@ output:
 
 <left>
 
-My teaching and diversity statements are available on request. 
+My teaching statement can be found <a href="Weiliang_Tan_Teaching_Statement.pdf" target="_blank">**here**</a></font> and my teaching evaluations are available on request.
 <br><br>
-I benefited from the multidisciplinary undergraduate education at Yale-NUS College, Singapore's first liberal arts college, which nurtured my interests in teaching. 
+I benefited from the multidisciplinary undergraduate education at Yale-NUS College, <br>Singapore's first **liberal arts college**, which nurtured my interests in teaching. 
 <br><br>
 My teaching interests at the undergraduate and graduate levels include:
 <ul> <li> International and Spatial Economics; Urban Economics

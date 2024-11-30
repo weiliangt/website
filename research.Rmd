@@ -45,6 +45,7 @@ My research statement is available on request.
 <left> <img src="coinv_networks_pic.png" style="width:100%"> </left>
 <right> <span style="font-size:22px">**The Geography and Spatial Networks of Innovation**</font>
 <br><br><br> <span style="font-size:18px"> **Research Question**: What drives the rising intensity of cross-region <br> coinventor networks and what are the aggregate implications?
+<br><br><br> **Intended Methodological Contribution**: Introduce field-specific <br> expertise in a dynamic spatial model with endogenous innovation
 </right>
 
 <br />
