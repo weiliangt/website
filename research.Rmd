@@ -22,8 +22,10 @@ My research statement is available on request.
 <left> <img src="geo_innovation_pic.png" style="width:100%"> </left>
 <right> <span style="font-size:22px"><a href="Weiliang_Tan_JMP.pdf" target="_blank">**The Geography of Innovation in the United States**</a></font>
 <br> (Job Market Paper)   
-<br><br> <span style="font-size:18px"> **Research Question**: What drives the rising spatial concentration of innovation from the early 1990s and what are the aggregate consequences? 
-<br><br><br> **Methodological Contribution**: Introduce endogenous, directed, and microfounded innovation in a dynamic spatial model
+<br> <span style="font-size:18px"> **Research Question**: What drives the rising spatial concentration of<br />innovation from 1990 and what are the aggregate consequences? 
+<br><br> **Methodological Contributions**:<br /> 
+(1) Introduce endogenous, directed, and microfounded innovation in a<br />dynamic spatial model;<br />
+(2) Decompose the welfare impacts from shocks to fundamentals into<br />transitory and long-run growth components
 </right>
 
 <br />
@@ -33,7 +35,9 @@ My research statement is available on request.
 <br /> (joint with Ivan Rudik, Gary Lyn, Ariel Ortiz-Bobea)   
 <br /> <span style="font-size:18px"> <em>**R&R, Journal of Political Economy: Macroeconomics**</em>  
 <br /> **Research Question**: What are the welfare effects of general equilibrium adaptation via trade, migration, and capital accumulation in response to <br> climate change?  
-<br /> **Methodological Contributions**: (1) Model-consistent estimating equations to identify climate impacts on productivity and amenities from temperature shocks; (2) Quantitative decomposition of general equilibrium adaptation channels (trade, migration, industry switching, capital accumulation) to shocks in fundamentals in a dynamic spatial model
+<br /> **Methodological Contributions**:<br /> 
+(1) Model-consistent estimating equations to identify climate impacts on productivity and amenities from temperature shocks; <br />
+(2) Quantitative decomposition of general equilibrium adaptation channels (trade, migration, industry switching, capital accumulation) to shocks in fundamentals in a dynamic spatial model
 </right>
 
 <br />
@@ -45,7 +49,7 @@ My research statement is available on request.
 <left> <img src="coinv_networks_pic.png" style="width:100%"> </left>
 <right> <span style="font-size:22px">**The Geography and Spatial Networks of Innovation**</font>
 <br><br><br> <span style="font-size:18px"> **Research Question**: What drives the rising intensity of cross-region <br> coinventor networks and what are the aggregate implications?
-<br><br><br> **Intended Methodological Contribution**: Introduce field-specific <br> expertise in a dynamic spatial model with endogenous innovation
+<br><br><br> **Intended Methodological Contribution**: Introduce field-specific <br> expertise in a dynamic spatial model with endogenous and directed<br> innovation
 </right>
 
 <br />
@@ -54,7 +58,7 @@ My research statement is available on request.
 <right> <span style="font-size:22px">**The Geography of Technology Vintages**</font> 
 <br> (joint with Bernardo Ribeiro)  
 <br><br> <span style="font-size:18px">**Research Question**: Why are newer technology vintages concentrated<br> in big cities?
-<br><br><br> **Methodological Contribution**: Introduce technology vintages in a <br> dynamic spatial model with endogenous innovation
+<br><br><br> **Methodological Contribution**: Introduce technology vintages in a <br> dynamic spatial model with endogenous and directed innovation
 </right>
 
 <!-- The Dynamic Propagation of Productivity Shocks (with Zebang Xu)
