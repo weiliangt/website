@@ -1,47 +1,53 @@
-<name>weiliang-tan</name>
-<output_dir>docs</output_dir>
-<navbar>
-  <title>Weiliang Tan</title>
-  <left>
-    <text>Home</text>
-    <href>index.html</href>
-  </left>
-  <left>
-    <text>Research</text>
-    <href>research.html</href>
-  </left>
-  <left>
-    <text>Teaching</text>
-    <href>teaching.html</href>
-  </left>
-  <left>
-    <text>CV</text>
-    <href>CV.html</href>
-  </left>
-  <right>
-    <icon>fa-envelope fa-lg</icon>
-    <href>mailto:wt289@cornell.edu</href>
-  </right>
-  <right>
-    <icon>fa-google fa-lg</icon>
-    <href>https://scholar.google.com/citations?hl=en&user=Q0qWe3UAAAAJ</href>
-  </right>
-  <right>
-    <icon>fa-github fa-lg</icon>
-    <href>https://github.com/weiliangt</href>
-  </right>
-  <right>
-    <icon>fa-twitter fa-lg</icon>
-    <href>https://twitter.com/weiliang_t</href>
-  </right>
-  <right>
-    <icon>fa-linkedin fa-lg</icon>
-    <href>https://www.linkedin.com/in/weiliangtan/</href>
-  </right>
-</navbar>
-<output>
-  <html_document>
-    <theme>journal</theme>
-    <css>styles.css</css>
-  </html_document>
-</output>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+       <loc>https://weiliangtan.com/</loc>
+       <lastmod>2025-02-02T20:39:22+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>https://weiliangtan.com/index.html</loc>
+       <lastmod>2025-02-02T20:39:22+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://weiliangtan.com/research.html</loc>
+       <lastmod>2025-02-02T20:39:22+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://weiliangtan.com/teaching.html</loc>
+       <lastmod>2025-02-02T20:39:22+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://weiliangtan.com/CV.html</loc>
+       <lastmod>2025-02-02T20:39:22+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://weiliangtan.com/Weiliang_Tan_JMP.pdf</loc>
+       <lastmod>2025-02-02T20:39:22+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://weiliangtan.com/Weiliang_Tan_Teaching_Statement.pdf</loc>
+       <lastmod>2025-02-02T20:39:22+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://weiliangtan.com/Weiliang_Tan_CV.pdf</loc>
+       <lastmod>2025-02-02T20:39:22+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+  </url>
+</urlset>
