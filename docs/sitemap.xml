@@ -26,7 +26,7 @@
         </right>
         <right>
             <icon>fa-google fa-lg</icon>
-            <href>https://scholar.google.com/citations?hl=en&user=Q0qWe3UAAAAJ</href>
+            <href>https://scholar.google.com/citations?hl=en&amp;user=Q0qWe3UAAAAJ</href>
         </right>
         <right>
             <icon>fa-github fa-lg</icon>
