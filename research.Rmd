@@ -22,7 +22,7 @@ My research statement is available on request.
 <left> <img src="geo_innovation_pic.png" style="width:100%"> </left>
 <right> <span style="font-size:22px"><a href="Weiliang_Tan_JMP.pdf" target="_blank">**The Geography of Innovation in the United States**</a></font>
 <br> (Job Market Paper)   
-<br> <span style="font-size:18px"> **Research Question**: What drives the rising spatial concentration of<br />innovation from 1990 and what are the aggregate consequences? 
+<br> <span style="font-size:18px"> **Research Question**: What drives the rising spatial concentration of <br />U.S. innovation after 1990 and what are the aggregate consequences? 
 <br><br> **Methodological Contributions**:<br /> 
 (1) Introduce endogenous, directed, and microfounded innovation in a<br />dynamic spatial model;<br />
 (2) Decompose the welfare impacts from shocks to fundamentals into<br />transitory and long-run growth components
