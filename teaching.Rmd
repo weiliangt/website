@@ -13,14 +13,15 @@ output:
 
 <left>
 
-My teaching statement can be found <a href="Weiliang_Tan_Teaching_Statement.pdf" target="_blank">**here**</a></font> and my teaching evaluations are available on request.
+My teaching statement and evaluations are available on request.
+<!-- My teaching statement can be found <a href="Weiliang_Tan_Teaching_Statement.pdf" target="_blank">**here**</a></font> and my teaching evaluations are available on request. 
+<br><br> -->
+I benefited from the multidisciplinary undergraduate education at Yale-NUS College, Singapore's first liberal arts college. I look forward to teaching International and Spatial Economics; and Introduction to Statistics in a liberal arts setting at Claremont McKenna College from Fall 2026.
 <br><br>
-I benefited from the multidisciplinary undergraduate education at Yale-NUS College, <br>Singapore's first **liberal arts college**, which nurtured my interests in teaching. 
-<br><br>
-My teaching interests at the undergraduate and graduate levels include:
+More broadly, my teaching interests at the undergraduate and graduate levels include:
 <ul> <li> International and Spatial Economics; Urban Economics
      <li> Macroeconomics (Growth and Innovation)
-     <li> Empirical Innovation
+     <li> Innovation and Entrepreneurship
      <li> Environmental and Resource Economics
      <li> Applied Microeconomics
 </ul>

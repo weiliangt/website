@@ -27,13 +27,9 @@ output:
 
 <left class="flex-container">
 <left> <img src="photo_of_me.jpg" style="width:100%">  </left>
-<right> <span style="font-size:18px"> I am a PhD Candidate in [Applied Economics at Cornell University](https://dyson.cornell.edu/) and a 
-<br> visiting student at the Department of [Economics at Yale University](https://economics.yale.edu/) from <br> January 2023 - May 2025 hosted by Prof. Samuel Kortum.
-<br><br> In the 2025-2026 academic year, I will be an NBER Postdoctoral Research Associate for the [Startup Cartography Project](https://www.startupcartography.com/home) (Jorge Guzman, Scott Stern, Catherine Fazio). In July 2026, I will join [Claremont McKenna College](https://www.cmc.edu/robert-day-school/faculty-research/faculty-list) as an Assistant Professor of Economics. 
-<br><br> My research focuses on the spatial and network aspects of innovation <br> and climate change. 
-<br><br> <ul> <li> Advisors: Prof. Ivan Rudik (Cornell), Prof. Samuel Kortum (Yale), Prof. Peter Schott (Yale), Prof. Nancy Chau (Cornell)
-<br><br> <li> Primary Fields: International and Spatial Economics; <br> Urban Economics
-<br><br> <li> Secondary Fields: Macroeconomics; Empirical Innovation; <br> Environmental Economics
+<right> <span style="font-size:18px"> I am an NBER Postdoctoral Research Associate for the [Startup Cartography Project](https://www.startupcartography.com/home) (Jorge Guzman, Scott Stern, Catherine Fazio). In July 2026, I will join [Claremont McKenna College](https://www.cmc.edu/robert-day-school/faculty-research/faculty-list) as an Assistant Professor of Economics. 
+<br><br> I received my PhD in [Applied Economics from Cornell University](https://dyson.cornell.edu/) in 2025 and was a visiting student at the Department of [Economics at Yale University](https://economics.yale.edu/) from 2023-2025 hosted by [Prof. Samuel Kortum](https://campuspress.yale.edu/samuelkortum/).
+<br><br> My primary fields are International and Spatial Economics; Urban Economics; and Innovation and Entrepreneurship. I leverage big data and quantitative spatial models to study the geography of innovation and entrepreneurship.
 
 </div>
 <div style="margin-bottom:20px;">
