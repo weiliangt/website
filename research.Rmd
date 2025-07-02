@@ -48,7 +48,7 @@ My research statement is available on request.
 <left class="flex-container">
 <left> <img src="geo_vintage_pic.png" style="width:90%"> </left>
 <right> <span style="font-size:22px">**The Geography of Technology Vintages**</font> 
-<br> (joint with Bernardo Ribeiro)  
+<br> (joint with Bernardo Ribeiro, Anh Tran)  
 <br><br> <span style="font-size:18px">**Research Question**: Why are newer technology vintages concentrated<br> in big cities?
 <br><br><br> **Methodological Contribution**: Introduce technology vintages in a <br> dynamic spatial model with endogenous and directed innovation
 </right>
