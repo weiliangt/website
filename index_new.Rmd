@@ -28,9 +28,9 @@ output:
 <left class="flex-container">
 <left> <img src="photo_of_me.jpg" style="width:100%">  </left>
 <right> <span style="font-size:18px"> I am an NBER Postdoctoral Research Associate for the [Startup Cartography Project](https://www.startupcartography.com/home) (Jorge Guzman, Scott Stern, Catherine Fazio). In July 2026, I will join [Claremont McKenna College](https://www.cmc.edu/robert-day-school/faculty-research/faculty-list) as an Assistant Professor of Economics. 
-<br><br> I received my PhD in [Applied Economics from Cornell University](https://dyson.cornell.edu/) in 2025 and was a visiting student at the Department of [Economics at Yale University](https://economics.yale.edu/) from 2023-2025 hosted by [Prof. Samuel Kortum](https://campuspress.yale.edu/samuelkortum/).
+<br><br> I received my PhD in [Applied Economics from Cornell University](https://dyson.cornell.edu/) and was a visiting student at the Department of [Economics at Yale University](https://economics.yale.edu/) from 2023-2025 hosted by [Prof. Samuel Kortum](https://campuspress.yale.edu/samuelkortum/).
 <br><br> My primary fields are International and Spatial Economics; Urban Economics; and Innovation and Entrepreneurship. 
-<br><br> I leverage **big data** and **quantitative spatial models** to study the **geography of innovation and entrepreneurship**.
+<br><br> I leverage **large-scale microdata** and **quantitative spatial models** to study the **geography of innovation and entrepreneurship**.
 
 </div>
 <div style="margin-bottom:20px;">
