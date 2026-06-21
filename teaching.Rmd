@@ -13,12 +13,35 @@ output:
 
 <left>
 
-My teaching statement and evaluations are available on request.
-<!-- My teaching statement can be found <a href="Weiliang_Tan_Teaching_Statement.pdf" target="_blank">**here**</a></font> and my teaching evaluations are available on request. 
+# Current Teaching and RA Opportunities
+
+<!-- My teaching statement and evaluations are available on request.
+My teaching statement can be found <a href="Weiliang_Tan_Teaching_Statement.pdf" target="_blank">**here**</a></font> and my teaching evaluations are available on request. 
 <br><br> -->
-I benefited from the multidisciplinary undergraduate education at Yale-NUS College, Singapore's first liberal arts college. I look forward to teaching International and Spatial Economics; and Introduction to Statistics in a liberal arts setting at Claremont McKenna College from Fall 2026.
+
+I benefited from the multidisciplinary undergraduate education at Yale-NUS College, Singapore's first liberal arts college. 
+I look forward to teaching various economics courses in a liberal arts setting at Claremont McKenna College (CMC).
+
+In **Fall 2026**, I am teaching three sections of **ECON120 Statistics**. 
+<br> In **Spring 2027**, I will teach one section of **International and Spatial Economics**.
 <br><br>
-More broadly, my teaching interests at the undergraduate and graduate levels include:
+
+I am grateful for research assistant support from the Lowe Institute of Political Economy and the Financial Economics Institute at CMC. 
+My RAs help process and visualize different types of spatial and network data, 
+</br> and micro data on innovation, entrepreneurship, and science. 
+I have worked with the following RAs: 
+<ul> <li> Trung Nguyen, MA Finance '26, Consultant at Oliver Wyman
+<li> Leo Furr, Econ '27
+<li> Rohan Mathew, History '27
+<li> Kevin Wang, Econ '27
+</ul>
+
+CMC students interested in RA opportunities or seeking potential thesis supervision, please email me to set up an appointment.
+<br><br>
+
+# Teaching Interests and Experience
+
+My teaching interests at the undergraduate and graduate levels include:
 <ul> <li> International and Spatial Economics; Urban Economics
      <li> Macroeconomics (Growth and Innovation)
      <li> Innovation and Entrepreneurship
@@ -26,22 +49,14 @@ More broadly, my teaching interests at the undergraduate and graduate levels inc
      <li> Applied Microeconomics
 </ul>
 
-<br>
+### International and Spatial Economics
 
-# International and Spatial Economics
-
-I co-organized the Cornell Urban-Spatial-Trade-Geography Reading Group over several semesters, supervised by Prof. Shanjun Li, Prof. Panle Barwick, and Prof. Ivan Rudik. This filled in for the absence of field courses in international and spatial economics at Cornell. The syllabus for our reading group can be found here.
+I co-organized the Cornell Urban-Spatial-Trade-Geography Reading Group over several semesters, supervised by Prof. Shanjun Li, Prof. Panle Barwick, and Prof. Ivan Rudik. This filled in for the absence of field courses in international and spatial economics at Cornell.
 
 I was the TA for undergraduate International Economics (Prof. Samuel Kortum) at Yale.
-<br><br>
+<br>
 
-# Environmental Economics and Applied Microeconomics
+### Environmental Economics and Applied Microeconomics
 
 I was the TA for first-year PhD Applied Microeconomics (Prof. Ben Leyden and Prof. Ariel Ortiz-Bobea), masters Environmental Economics (Prof. Ivan Rudik) and undergraduate Resource Economics at Cornell. 
-
-
-
-
-
-
 

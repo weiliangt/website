@@ -13,16 +13,13 @@ output:
 
 <left>
 
-My research statement is available on request.
-
 <h1 style="font-size: 40px;">Working Papers</h1>
 <br>
 
 <left class="flex-container">
 <left> <img src="geo_innovation_pic.png" style="width:100%"> </left>
-<right> <span style="font-size:22px"><a href="Weiliang_Tan_JMP.pdf" target="_blank">**The Geography of Innovation in the United States**</a></font>
-<br> (Job Market Paper)   
-<br> <span style="font-size:18px"> **Research Question**: What drives the rising spatial concentration of <br />U.S. innovation after 1990 and what are the aggregate consequences? 
+<right> <span style="font-size:22px"><a href="Weiliang_Tan_SDTC.pdf" target="_blank">**Directed Innovation across Space**</a></font>
+<br><br> <span style="font-size:18px"> **Research Question**: How does the geography of innovation respond to changes in economic fundamentals, and what are the consequences for aggregate growth and welfare?
 <br><br> **Methodological Contributions**:<br /> 
 (1) Introduce endogenous, directed, and microfounded innovation in a<br />dynamic spatial model;<br />
 (2) Decompose the welfare impacts from shocks to fundamentals into<br />transitory and long-run growth components
@@ -30,14 +27,21 @@ My research statement is available on request.
 
 <br />
 <left class="flex-container">
+<left> <img src="changing_geo_inno.png" style="width:100%"> </left>
+<!--  <right> <span style="font-size:22px"><a href="Weiliang_Tan_GeoInno.pdf" target="_blank">**The Changing Geography of American Innovation**</a></font> -->
+<right> <span style="font-size:22px">**The Changing Geography of American Innovation**</font>
+<br><br><br> <span style="font-size:18px"> **Research Question**: How has the geography of U.S. innovation changed over time and what are the main drivers of this trend?
+
+<br />
+<left class="flex-container">
 <left> <img src="ssp245_temp_hist.png" style="width:100%"> </left>
 <right> <span style="font-size:22px"><a href="https://osf.io/preprints/socarxiv/usghb" target="_blank">**The Economic Effects of Climate Change in<br>Dynamic Spatial Equilibrium**</a></font>
 <br /> (joint with Ivan Rudik, Gary Lyn, Ariel Ortiz-Bobea)   
 <br /> <span style="font-size:18px"> <em>**R&R, Journal of Political Economy: Macroeconomics**</em>  
-<br /> **Research Question**: What are the welfare effects of general equilibrium adaptation via trade, migration, and capital accumulation in response to <br> climate change?  
+<br /> **Research Question**: What are the welfare effects of general equilibrium adaptation via trade and migration in response to climate change?  
 <br /> **Methodological Contributions**:<br /> 
 (1) Model-consistent estimating equations to identify climate impacts on productivity and amenities from temperature shocks; <br />
-(2) Quantitative decomposition of general equilibrium adaptation channels (trade, migration, industry switching, capital accumulation) to shocks in fundamentals in a dynamic spatial model
+(2) Quantitative decomposition of general equilibrium adaptation channels (trade, migration, industry switching) to shocks in fundamentals in a <br> dynamic spatial model
 </right>
 
 <br />
@@ -49,7 +53,7 @@ My research statement is available on request.
 <left> <img src="geo_vintage_pic.png" style="width:90%"> </left>
 <right> <span style="font-size:22px">**The Geography of Technology Vintages**</font> 
 <br> (joint with Bernardo Ribeiro, Anh Tran)  
-<br><br> <span style="font-size:18px">**Research Question**: Why are newer technology vintages concentrated<br> in big cities?
+<br><br> <span style="font-size:18px">**Research Question**: Why are newer technology vintages<br> disproportionately created in high-skill regions?
 <br><br><br> **Methodological Contribution**: Introduce technology vintages in a <br> dynamic spatial model with endogenous and directed innovation
 </right>
 
