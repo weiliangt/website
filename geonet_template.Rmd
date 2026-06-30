@@ -1,0 +1,83 @@
+---
+title: ""
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'geonet_template.html'))})
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+<left>
+
+# A GeoNet Visualization Template
+
+These are example animations of U.S. county-to-county migration flows, produced
+with the GeoNet visualization workflow.
+
+<br>
+
+<style>
+.geonet-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 24px;
+  max-width: 1100px;
+}
+.geonet-grid figure { margin: 0; }
+.geonet-grid video {
+  width: 100%;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+}
+.geonet-grid figcaption {
+  margin-top: 8px;
+  font-weight: bold;
+  text-align: center;
+}
+@media (max-width: 700px) {
+  .geonet-grid { grid-template-columns: 1fr; }
+}
+</style>
+
+<div class="geonet-grid">
+
+  <figure>
+    <video controls loop muted playsinline preload="metadata">
+      <source src="mig_raw_county_inflow.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption>County In-Migration</figcaption>
+  </figure>
+
+  <figure>
+    <video controls loop muted playsinline preload="metadata">
+      <source src="mig_raw_county_outflow.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption>County Out-Migration</figcaption>
+  </figure>
+
+  <figure>
+    <video controls loop muted playsinline preload="metadata">
+      <source src="mig_raw_county_net.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption>Net County Migration</figcaption>
+  </figure>
+
+  <figure>
+    <video controls loop muted playsinline preload="metadata">
+      <source src="mig_raw_county_backbone_network.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption>Migration Backbone Network</figcaption>
+  </figure>
+
+</div>
+
+</left>
