@@ -15,8 +15,22 @@ output:
 
 # A GeoNet Visualization Template
 
-These are example animations of U.S. county-to-county migration flows, produced
-with the GeoNet visualization workflow.
+Leo Furr and I develop a GeoNet Visualization Template to turn a geographic
+network dataset into a coordinated family of maps and animations with minimal
+configuration. Given a weighted, optionally directed edgelist over geographic
+units &mdash; U.S. counties, commuting zones, or states &mdash; it produces
+connectivity heatmaps, network-evolution animations, node-level heatmaps, and an
+interactive web map, all from a single input. The template supports a
+visualization-first workflow, in which a fast rendering of how the data unfold
+across space serves as an initial diagnostic that surfaces data-quality gaps,
+outliers, and candidate patterns before formal cleaning. Its parameterized
+design also lets AI adapt it to virtually any geographic network dataset.
+
+See the <a href="Furr_Tan_GeoNetViz_paper.pdf" target="_blank">extended abstract</a>
+and the <a href="Furr_Tan_GeoNetViz_manual.pdf" target="_blank">manual</a>.
+
+Below are example animations of U.S. county-to-county migration flows from the
+Internal Revenue Service (IRS), produced with the GeoNet visualization template.
 
 <br>
 
